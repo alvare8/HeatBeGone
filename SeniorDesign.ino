@@ -1,3 +1,15 @@
+/*
+HBG V1
+
+Ethan Alvarado
+Daniel Nicolas
+
+The system consists of 1 fan and 1 motor
+connected using a breadboard. This code was
+used to make a prototype demo
+*/
+
+
 // Include Libraries
 #include <DHT.h>;
 
